@@ -2,6 +2,7 @@
   <div class="container">
     <home-header></home-header>
     <icon-home></icon-home>
+    <div>我是修改的部分<div>
   </div>
 </template>
 
