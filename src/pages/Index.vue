@@ -3,6 +3,8 @@
     <home-header></home-header>
     <icon-home></icon-home>
     <div>我是修改的部分<div>
+    <div>我解决了兼容性问题<div>
+
   </div>
 </template>
 
